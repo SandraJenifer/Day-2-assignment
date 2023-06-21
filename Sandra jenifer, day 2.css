@@ -1,0 +1,10 @@
+/*p{
+    color:coral;
+} */
+div{
+    background-color: crimson;
+    border-radius: 10px;
+    margin:20px;
+    border:2px solid black;
+    padding: 20px;
+}
